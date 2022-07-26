@@ -1,0 +1,10 @@
+.container{
+    width: 600px;
+    height: auto;
+}
+img{
+    border: 2px solid yellowgreen;
+    image-rendering: pixelated;
+    width: 60%;
+    height: 60%;
+}
